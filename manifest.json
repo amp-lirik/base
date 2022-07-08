@@ -1,0 +1,43 @@
+{ 
+  "name": "AMP Lirik Lagu", 
+  "short_name": "AMP Lirik", 
+  "start_url": "https://amplirik.blogspot.com/", 
+  "display": "standalone", 
+  "background_color": "#fff", 
+  "theme_color": "#fff", 
+  "description": "Blog Gudang Lirik Lagu Indonesia Terbaru", 
+  "icons": [{
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_R_9Ker6PHOd2HDLzyrsfzWdLKwGs9NmlFSSPiwhh55JRZMeYNEeKPZ0zD0nLdEmYJZBbG2ea9o3jfYKeyF1AWiKedOKM-Lm4eF8z45MfHZ3p0CI3gC2E8DvBkX1P-AI8309dkkDcvjX-xIKq4WT1zshlKTZy_EULvT8xkL3i3xJvWSiX7ykM7dK1/s196/apple-icon-180x180.png",
+      "sizes": "196x196",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_R_9Ker6PHOd2HDLzyrsfzWdLKwGs9NmlFSSPiwhh55JRZMeYNEeKPZ0zD0nLdEmYJZBbG2ea9o3jfYKeyF1AWiKedOKM-Lm4eF8z45MfHZ3p0CI3gC2E8DvBkX1P-AI8309dkkDcvjX-xIKq4WT1zshlKTZy_EULvT8xkL3i3xJvWSiX7ykM7dK1/s48/apple-icon-180x180.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, { 
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_R_9Ker6PHOd2HDLzyrsfzWdLKwGs9NmlFSSPiwhh55JRZMeYNEeKPZ0zD0nLdEmYJZBbG2ea9o3jfYKeyF1AWiKedOKM-Lm4eF8z45MfHZ3p0CI3gC2E8DvBkX1P-AI8309dkkDcvjX-xIKq4WT1zshlKTZy_EULvT8xkL3i3xJvWSiX7ykM7dK1/s72/apple-icon-180x180.png",
+    "sizes": "72x72", 
+    "type": "image/png" 
+  }, { 
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_R_9Ker6PHOd2HDLzyrsfzWdLKwGs9NmlFSSPiwhh55JRZMeYNEeKPZ0zD0nLdEmYJZBbG2ea9o3jfYKeyF1AWiKedOKM-Lm4eF8z45MfHZ3p0CI3gC2E8DvBkX1P-AI8309dkkDcvjX-xIKq4WT1zshlKTZy_EULvT8xkL3i3xJvWSiX7ykM7dK1/s96/apple-icon-180x180.png", 
+    "sizes": "96x96", 
+    "type": "image/png" 
+  }, { 
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_R_9Ker6PHOd2HDLzyrsfzWdLKwGs9NmlFSSPiwhh55JRZMeYNEeKPZ0zD0nLdEmYJZBbG2ea9o3jfYKeyF1AWiKedOKM-Lm4eF8z45MfHZ3p0CI3gC2E8DvBkX1P-AI8309dkkDcvjX-xIKq4WT1zshlKTZy_EULvT8xkL3i3xJvWSiX7ykM7dK1/s144/apple-icon-180x180.png", 
+    "sizes": "144x144", 
+    "type": "image/png" 
+  }, { 
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_R_9Ker6PHOd2HDLzyrsfzWdLKwGs9NmlFSSPiwhh55JRZMeYNEeKPZ0zD0nLdEmYJZBbG2ea9o3jfYKeyF1AWiKedOKM-Lm4eF8z45MfHZ3p0CI3gC2E8DvBkX1P-AI8309dkkDcvjX-xIKq4WT1zshlKTZy_EULvT8xkL3i3xJvWSiX7ykM7dK1/s168/apple-icon-180x180.png", 
+    "sizes": "168x168", 
+    "type": "image/png" 
+  }, { 
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_R_9Ker6PHOd2HDLzyrsfzWdLKwGs9NmlFSSPiwhh55JRZMeYNEeKPZ0zD0nLdEmYJZBbG2ea9o3jfYKeyF1AWiKedOKM-Lm4eF8z45MfHZ3p0CI3gC2E8DvBkX1P-AI8309dkkDcvjX-xIKq4WT1zshlKTZy_EULvT8xkL3i3xJvWSiX7ykM7dK1/s192/apple-icon-180x180.png", 
+    "sizes": "192x192", 
+    "type": "image/png" 
+  }, { 
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzgeb3yPo6N5HtTgjxajSzpwKxuOpRgOmrYBHAy4rikegUQcrTVOP4D5DMlcASHARsCiG-iceprqv8mxAAjFQuECZoW3vObqLZjFRAEZMKB1f0iN6dQ3OyNC99zhIJU75KCldwb7sHTfAW5fUMqAUZ6fLVOVkLpqk35m4ABHAfzSGk-UcTRwSWmHMz/s512/logo.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
